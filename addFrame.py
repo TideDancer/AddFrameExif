@@ -2,6 +2,7 @@
 # require PIL
 # $ python addFrame.py path/
 # outputs are in output/ folder
+
 from PIL import Image, ImageOps, ImageDraw, ImageFont
 from PIL.ExifTags import TAGS
 import sys
